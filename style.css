@@ -1,8 +1,24 @@
-.Characters{
+.Characters {
     color: rgb(126, 10, 10);
     display: flex;
     align-items: center;
-     gap: 250px;
-     justify-content: center;
+    gap: 250px;
+    justify-content: center;
 }
 
+.clan {
+    text-align: center;
+    color: rgb(126, 10, 10);
+
+}
+
+.feri {
+    color: rgb(126, 10, 10);
+}
+
+.history {
+    font-size: larger;
+    color: rgb(84, 161, 193);
+    text-align: center;
+
+}
