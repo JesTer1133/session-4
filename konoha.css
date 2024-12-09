@@ -1,0 +1,8 @@
+table {
+    width: 100%;
+    font-size: large;
+    color: rgb(20, 23, 220);
+    text-align: center;
+    border-collapse: collapse;
+    overflow: auto;
+}
